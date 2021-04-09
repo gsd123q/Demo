@@ -1,0 +1,4 @@
+start->Client.java编码格式是gbk
+项目总类图用powerdesigner打开
+运行的图片在img中
+尽量按提示输入信息。
